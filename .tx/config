@@ -1,0 +1,7 @@
+[main]
+host = https://www.transifex.com
+
+[o:aether:p:aether:r:qt-translation-025x]
+file_filter = src/qt/locale/aether_<lang>.xlf
+source_file = src/qt/locale/aether_en.xlf
+source_lang = en

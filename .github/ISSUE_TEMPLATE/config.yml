@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Aether Core Security Policy
+    url: https://github.com/aether/aether/blob/master/SECURITY.md
+    about: View security policy
+  - name: Aether Core Developers
+    url: https://aethercore.org
+    about: Aether Core homepage
